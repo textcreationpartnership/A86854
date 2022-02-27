@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble remonstrance and desires of divers officers and souldiers in the Army, under command of Colon[e]l Hewson; presented to his Excellency Sir Thomas Fairfax, upon Thursday last. Novemb. 4. 1647. to be communicated to both Hou[s]es if [sic] Parliament assembled at Westminster. Wherein is declared, the great and dismall cloud now arising, together with their firme and constant resolution to adhere to his Excellency, against all dividers and opposers in the common cause of this nations peace and safety, and to suppresse all incendiaries, who do or shall endeavour to beget divisions within this kingdome. By the appointment of the said officers and souldiers, whose names are hereunto subscribed. Novemb. 9. 1647. Imprimatur, Gilb. Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86854</idno>
+            <idno type="STC">Wing H3604</idno>
+            <idno type="STC">Thomason E413_6</idno>
+            <idno type="STC">ESTC R202498</idno>
+            <idno type="EEBO-CITATION">99862753</idno>
+            <idno type="PROQUEST">99862753</idno>
+            <idno type="VID">114929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114929)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E413[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble remonstrance and desires of divers officers and souldiers in the Army, under command of Colon[e]l Hewson; presented to his Excellency Sir Thomas Fairfax, upon Thursday last. Novemb. 4. 1647. to be communicated to both Hou[s]es if [sic] Parliament assembled at Westminster. Wherein is declared, the great and dismall cloud now arising, together with their firme and constant resolution to adhere to his Excellency, against all dividers and opposers in the common cause of this nations peace and safety, and to suppresse all incendiaries, who do or shall endeavour to beget divisions within this kingdome. By the appointment of the said officers and souldiers, whose names are hereunto subscribed. Novemb. 9. 1647. Imprimatur, Gilb. Mabbot.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Hewson, John, d. 1662.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 3 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for E. Horton, and are to be sold neere the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 6 misnumbered 3.</note>
+                  <note>Signed on A3v: John Hewson [and 38 others].</note>
+                  <note>A variant omits "under command of Colonel Hewson" in the title.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114929:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>The Humble REMONSTRANCE AND DESIRES OF Divers Officers and Souldiers in the Ar<g ref="char:EOLhyphen"/>my, under Command of Colon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l HEWSON; Preſented to his Excellency Sir Tho<g ref="char:EOLhyphen"/>mas Fairf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x, upon Thurſday laſt. <hi>Novemb.</hi> 4. 1647. <hi>to be communicated to both Houſes if Parlia<g ref="char:EOLhyphen"/>ment aſſembled at Weſtminſter.</hi>
+            </p>
+            <p>Wherein is declared, the Great and Diſmall Cloud now ariſing, together with their firme and conſtant Reſolution to adhere to his Excellency, againſt all Dividers and Oppoſers in the Common Cauſe of this Nations Peace and Safety, and to ſup<g ref="char:EOLhyphen"/>preſſe all Incendiaries, who do or ſhall en<g ref="char:EOLhyphen"/>deavour to beget Diviſions within this Kingdome.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>BY the Appointment of the ſaid Officers and Souldiers, Whoſe Names are hereunto ſubſcribed.</p>
+                        <closer>
+                           <dateline>
+                              <date>Novemb. 9. 1647.</date>
+                           </dateline> Imprima<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ur, <signed>Gilb. Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>G. Horton,</hi> and are to be ſold neere this Royall Exchange in <hi>Cornhill.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114929:2"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:114929:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>To his Excellency Sir <hi>Thomas Fairfax</hi> Captain Generall of all the Parlia<g ref="char:EOLhyphen"/>ments Forces.</head>
+            <head type="sub">The humble Remonſtrance and Deſires of divers Officers and Souldiers, under Command of His Excellency <hi>Sir Tho<g ref="char:EOLhyphen"/>mas Fairfax.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>THat your Petitioners do with all thank<g ref="char:EOLhyphen"/>fulneſſe acknowledge the Lords grati<g ref="char:EOLhyphen"/>ous hand in making your Excellency a choice Inſtrument of his glory, and a publike good to this diſtreſſed Nation; In whoſe de<g ref="char:EOLhyphen"/>liverance, you have abundantly manifeſted
+<pb n="2" facs="tcp:114929:3"/>
+               <!-- PDF PAGE 8 -->very great integrity and faithfulneſſe. Not<g ref="char:EOLhyphen"/>withſtanding, the many difficulties and diſ<g ref="char:EOLhyphen"/>couragements, wherewith you have been ne<g ref="char:EOLhyphen"/>ceſſitated to encounter, not only from open Enemies, but alſo from pretended friends: And now divine preſence having ſcattered your and the Kingdomes open Enemies, we joyfully expected the fruits of all, even peace and righteouſneſſe to flouriſh in our Nation. But to our great Griefe, wee ſee a diſmall Cloud againe ariſing over our heads from Diviſions and Diſcontents: The diſpelling whereof, we are confident, is and ſtill will be your Excellencies earneſt deſire, and utmoſt endeavour.</p>
+            <p>In order whereunto (your Petitioners moſt thankfully acknowledge) your Excellercies great care hath not been wanting (as in other things ſo) to provide Neceſſaries for your Army, and to procure them thoſe long de<g ref="char:EOLhyphen"/>cayned Arreares, which they have ſo dearly earned, although your endeavours herein have been hitherto greatly fruſtrated.</p>
+            <p>From the conſideration of all which, your Petitioners are fully reſolved (the Lord aſſi<g ref="char:EOLhyphen"/>fting)
+<pb n="3" facs="tcp:114929:3"/>
+               <!-- PDF PAGE 8 -->in the middeſt of all diſcouragements, to remaine firme and conſtant in our duty and obedience to your Excellency in the pro<g ref="char:EOLhyphen"/>ſecution of all your juſt Endeavours and Un<g ref="char:EOLhyphen"/>dertakings, for the good and ſafety of this Nation; for which we ſhall not accompt our lives deare unto Us, to ſerve your Excellency in oppoſing and ſuppreſſing all Incendiaries, who do, and ſhall beget Diviſions or Diſtem<g ref="char:EOLhyphen"/>pers in your Army, or to rend them from your Excellencies command: The iſſue whereof, would doubtleſſe be a ſecond and more mi<g ref="char:EOLhyphen"/>ſerable Warre, and ſad effuſion of Engliſh Bloud, which God in mercy prevent.</p>
+            <p>May it therefore pleaſe your Excellen<g ref="char:EOLhyphen"/>cie, to accept our cordiall acknowledg<g ref="char:EOLhyphen"/>ments, of your faithfulneſſe and care for Us, the Army, and Kingdome; And to be aſſured of our firme Reſolutions to adhere unto you againſt all Dividers and Oppoſers in the Common-Cauſe of this Nations Peace and Safety: So ſhall your petitioners be further enga<g ref="char:EOLhyphen"/>ged to love and honour your Excellen<g ref="char:EOLhyphen"/>cie.</p>
+            <closer>And ſhall over pray for your Poſterity.
+<pb facs="tcp:114929:4"/>
+               <!-- PDF PAGE 9 -->
+               <signed>
+                  <list>
+                     <head>Field-Officers.</head>
+                     <item>John Hewſon</item>
+                     <item>John lubbes</item>
+                     <item>Daniel Axtell</item>
+                  </list>
+                  <list>
+                     <head>Captaines</head>
+                     <item>Thomas Price</item>
+                     <item>John Carter</item>
+                     <item>Henry Davis</item>
+                     <item>samuel Grime</item>
+                     <item>Alexand. Brayfield</item>
+                     <item>Thomas Atkinſon</item>
+                     <item>Ralph Gale</item>
+                  </list>
+                  <list>
+                     <head>Lieutenants.</head>
+                     <item>George Jenkins</item>
+                     <item>George Smith</item>
+                     <item>Thomas Baker</item>
+                     <item>Jenkin Bevan</item>
+                     <item>Samuel Axtell</item>
+                     <item>John VVebb</item>
+                     <item>VVilliam Hill</item>
+                     <item>Rob: Mullings</item>
+                     <item>Martin Iubbes</item>
+                  </list>
+                  <list>
+                     <head>Enſignes</head>
+                     <item>Tho: Newnham</item>
+                     <item>John Davis</item>
+                     <item>Morgan Porhay</item>
+                     <item>Thomas Rawlins</item>
+                     <item>Henry Williams</item>
+                     <item>Joſeph Grimna</item>
+                     <item>Edmond Garney</item>
+                     <item>Daniel Hinkſman</item>
+                     <item>Edward Hore.</item>
+                  </list>
+                  <list>
+                     <head>Agents</head>
+                     <item>VVilliam Jones</item>
+                     <item>William Racie</item>
+                     <item>Roger Newberry</item>
+                     <item>John Barton</item>
+                     <item>Thomas Shepheard</item>
+                     <item>Richard Nichſon</item>
+                     <item>Edward Spencer</item>
+                     <item>Thomas Chapman</item>
+                     <item>Edward Ruſh</item>
+                     <item>
+                        <hi>VVilliam Darkey</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="proposals">
+            <pb n="5" facs="tcp:114929:4"/>
+            <!-- PDF PAGE 9 -->
+            <head>Certain Propoſals from the chiefe Agents of the Army, offered to the joynt conſiderations of all the free Commons of ENGLAND.</head>
+            <p>
+               <label>I.</label> That the People of England being at this day very unequally diſtributed by Counties, Cities, &amp; Burroughs, for the election of their Deputies in Parliament, ought to be more in<g ref="char:EOLhyphen"/>differently proportioned, according to the number of the Inhabitants: the circumſtances whereof, for number, place, and manner, are to be ſet down before the end of this preſent Parliament.</p>
+            <p>
+               <label>II.</label> That to prevent the many inconveniences apparently ariſing, from the long continuance of the ſame perſons in authority, this preſent Parliament be diſſolved upon the laſt day of September, which ſhall be in the year of our Lord, 1648.</p>
+            <p>
+               <label>III.</label> That the People do of courſe chuſe them<g ref="char:EOLhyphen"/>ſelves a Parliament once in two yeares, viz. upon the firſt Thurſday in every 2d, March,
+<pb n="6" facs="tcp:114929:5"/>
+               <!-- PDF PAGE 10 -->after the manner as ſhall be preſcribed before the end of this Parliament, to begin to ſit up<g ref="char:EOLhyphen"/>on the firſt Thurſday in Aprill following a Weſtminſter, or ſuch other place as ſhall bee appointed from time to time by the prece<g ref="char:EOLhyphen"/>ding Repreſentatives; and to con<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inue till the laſt day of September, then next enſuing, and no longer.</p>
+            <p>
+               <label>IV.</label> That the power of this, and all future Re<g ref="char:EOLhyphen"/>preſentatives of this Nation, is inferiour only to theirs who chule them, and doth extend, without the conſent or concurrence of any other perſon or perſons; to the enacting, alte<g ref="char:EOLhyphen"/>ring, and repealing of Lawes; to the erecting and aboliſhing of Offices and Courts, to the appointing, removing, and calling to account Magiſtrates, and Officers of all degrees, to the making War and peace, to the treating with forraign States: And generally, to whatſoe<g ref="char:EOLhyphen"/>ver is not expreſly, or implyedly reſerved by the Repreſented to themſelves.</p>
+            <closer>
+               <signed>Signed by the ſeverall Agents of the Reſpective Regi<g ref="char:EOLhyphen"/>ments in the Army.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
